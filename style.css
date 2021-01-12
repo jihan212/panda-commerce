@@ -1,0 +1,35 @@
+.carousol-slide{
+    background-color: rgb(252, 234, 232);
+    margin-top: 100px;
+    border-radius: 10px;
+}
+.banner img{
+    width: 100px;
+}
+.col-bag{
+    background-color: orange;
+}
+.col-shoe{
+    background-color: orchid;
+}
+.col-watch{
+    background-color: blue;
+}
+.panda-card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+    border-radius: 10px;
+}
+.card-box{
+    border: none;
+}
+.panda-footer{
+    border: none;
+    background-color: #fff;
+}
+.touch{
+    background-color: rgb(252, 234, 232);
+}
+.button{
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+}
